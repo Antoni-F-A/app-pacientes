@@ -143,3 +143,12 @@ article section .foto_materiales{
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.pie{
+    padding: 3%;
+    width: auto;
+    background-color: rgb(20, 44, 75);
+}
+.pie p{
+    text-align: center;
+}
